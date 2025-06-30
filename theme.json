@@ -5,6 +5,7 @@
   "name": "Neo Zen - Twilight",
   "description": "A sleek, futuristic theme for Zen Browser that blends modern design with mindful simplicity",
   "createdAt": "2025-05-31",
+  "version": "1.9.2-T",
   "style": {
     "chrome": "https://raw.githubusercontent.com/JustVibingWhileCoding/Neo-Zen/refs/heads/Twilight/userChrome.css",
     "content": "https://raw.githubusercontent.com/JustVibingWhileCoding/Neo-Zen/refs/heads/Twilight/userContent.css"
